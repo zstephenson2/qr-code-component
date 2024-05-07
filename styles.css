@@ -23,7 +23,7 @@ img {
     border-radius: 15px;
 }
 p {
-    font-size: 15px;
+    font-size: 0.938rem;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
@@ -32,7 +32,7 @@ p {
 h1 {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
-    font-size: 25px;
+    font-size: 1.563rem;
 }
 
 
